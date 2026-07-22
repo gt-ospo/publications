@@ -8,7 +8,7 @@ All GT OSPO presentations should be considered to be licensed as CC-BY-SA 4.0 un
 
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 |-----------|-------|-------------------|------|-------|-------------------|
-| Jeffrey Young, Alex Jenkins | Insights from Open Source Student Engagement Efforts at Georgia Tech | Presentation | 2026-07-15 | [Apereo Microconference](https://www.apereo.org/events/micro-conferences) | [Slides]() [Recording](https://www.youtube.com/watch?v=pd2tn8vSGqQ) |
+| Jeffrey Young, Alex Jenkins | Insights from Open Source Student Engagement Efforts at Georgia Tech | Presentation | 2026-07-15 | [Apereo Microconference](https://www.apereo.org/events/micro-conferences) | [Slides](https://github.com/gt-ospo/publications/blob/809556304497d3506beedf1ebb41c48de4f6082d/2026/GT%20OSS%20Student%20Engagement%20-%20Apereo%20Microconference%20-%202026-07-15.pdf) [Recording](https://www.youtube.com/watch?v=pd2tn8vSGqQ) |
 | Jeffrey Young | Student Engagement with OSS - OSS Maintainers | Presentation | 2026-02-20 | [Maintainers Meetup](https://ospo.cc.gatech.edu/open-source-maintainers/) | [Slides](2026/Student%20Engagement%20with%20OSS%20-%20OSS%20Maintainers%20-%202026-02-20.pdf) |
 | Jeffrey Young | GT OSPO Update - OSS Maintainers | Presentation | 2026-01-13 | [Maintainers Meetup](https://ospo.cc.gatech.edu/open-source-maintainers/) | [Slides](2026/GT%20OSPO%20Update%20-%20OSS%20Maintainers%20-%202026-01-13.pdf) |
 
